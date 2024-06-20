@@ -1,7 +1,7 @@
 /*
 Jesus Alejandro Montes Aguila
 24/05/2024
-"Insertion Sort"
+"Selection Sort"
 
 Este algoritmo ordena un arreglo de enteros mediante la selección
  repetida del elemento mínimo en la parte no ordenada del arreglo
