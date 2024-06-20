@@ -1,6 +1,6 @@
 /*
 Jesus Alejandro Montes Aguila
-25/05/2024
+26/05/2024
 "Ordenamiento de Arbol"
 
 Este código implementa un árbol de búsqueda binario (BST) en C++.
